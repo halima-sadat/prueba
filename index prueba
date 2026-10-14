@@ -9,7 +9,9 @@
 <--estil-->
 
     <body>
-        <-- menu-->
+  <nav> 
+<a href="#">inicio</nav>
+
             <div class="foto">
                 <img src="imagenes/auriculares.png" alt="" width="400px" height="400px">
             </div>
